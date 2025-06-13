@@ -8,4 +8,4 @@ A deep learning-based tool that generates descriptive captions for images using 
 - **Web Interface**: Allows users to upload images and view AI-generated captions via Streamlit.
 - **Visualization**: Displays uploaded images alongside their captions.
 
-[Video Demo](https://www.linkedin.com/posts/mohamed-hisham-6a0874268_ai-machinelearning-deeplearning-activity-7311024727542632448-Z8wQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftdgB5NLCLy34489p9vvZKXtNOgElOv0)
+**[Video Demo](https://www.linkedin.com/posts/mohamed-hisham-6a0874268_ai-machinelearning-deeplearning-activity-7311024727542632448-Z8wQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftdgB5NLCLy34489p9vvZKXtNOgElOv0)**
